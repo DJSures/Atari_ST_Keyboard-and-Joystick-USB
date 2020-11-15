@@ -1,0 +1,18 @@
+PIN: FUNCTION
+1: Ground, goes to Port 0 Pin 8 and Port 1 Pin 8
+2:
+3: Port 1 Pin 4 (right)
+4: Port 1 Pin 3 (left)
+5: Port 1 Pin 2 (down)
+6: Port 1 Pin 6 (fire) and Port 0 Pin 9 (right button mouse)
+7: Port 1 Pin 1 (up)
+8: Port 0 Pin 4 (right)
+9: Port 0 Pin 3 (left)
+10: Port 0 Pin 2 (down)
+11: Port 0 Pin 6 (fire)
+12: Port 0 Pin 1 (up)
+13: +5V, goes to Port 0 Pin 7 and Port 1 Pin 7
+14: TX, 7812.5 baud
+15: RX, 7812.5 baud
+16: 68000 reset line
+17: Port 1 Pin 5 (port 0 enable)
